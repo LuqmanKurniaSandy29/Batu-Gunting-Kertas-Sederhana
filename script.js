@@ -12,7 +12,7 @@ document.addEventListener('DOMContentLoaded', function () {
             const userChoice = this.id; // Mendapatkan pilihan user berdasarkan ID tombol yang diklik
             const computerChoice = choices[Math.floor(Math.random() * choices.length)]; // Mengacak pilihan komputer
             displayChoices(userChoice, computerChoice); // Menampilkan pilihan user dan komputer
-            setTimeout(() => determineWinner(userChoice, computerChoice), 500); // Alert muncul 0.5 detik setelah memilih
+            setTimeout(() => determineWinner(userChoice, computerChoice), 750); // Alert muncul 0.75 detik setelah memilih
         });
     });
 
