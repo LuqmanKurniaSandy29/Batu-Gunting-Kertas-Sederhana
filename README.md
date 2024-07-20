@@ -23,3 +23,7 @@ Permainan Batu Gunting Kertas adalah permainan tradisional di mana dua pemain me
    git clone https://github.com/LuqmanKurniaSandy29/Batu-Gunting-Kertas-Sederhana.git
    ```
 2. Buka file `index.html` di browser Anda.
+
+## **Penulis**
+
+Proyek ini dibuat oleh **Luqman Kurnia Sandy**.
